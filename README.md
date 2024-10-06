@@ -20,5 +20,4 @@ pip install -r requirements.txt
 ├── Vedant_Sawant_Midterm_Report.pdf - This the Project report
 ├── dataset.csv - This contains the whole dataset on which model was trained.
 └── requirements.txt - This is the requirements file which needs to be installed before executing the project.
-
 ````
